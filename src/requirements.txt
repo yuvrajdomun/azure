@@ -65,7 +65,7 @@ prompt-toolkit==3.0.3     # via ipython, jupyter-console
 ptyprocess==0.6.0         # via pexpect, terminado
 py==1.8.1                 # via pytest
 pyarrow==0.16.0           # via kedro
-pygments==2.5.2           # via ipython, jupyter-console, nbconvert, qtconsole
+pygments==2.7.4           # via ipython, jupyter-console, nbconvert, qtconsole
 pyrsistent==0.15.7        # via jsonschema
 pytest-cov==2.8.1
 pytest-mock==1.13.0
