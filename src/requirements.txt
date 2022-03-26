@@ -40,7 +40,7 @@ jupyter-console==6.1.0    # via jupyter
 jupyter-core==4.6.3       # via jupyter-client, nbconvert, nbformat, notebook, qtconsole
 jupyter==1.0.0
 jupyterlab-launcher==0.10.5  # via jupyterlab
-jupyterlab==0.31.1
+jupyterlab==1.2.21
 kedro==0.15.5
 markupsafe==1.1.1         # via jinja2
 mistune==0.8.4            # via nbconvert
