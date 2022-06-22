@@ -51,7 +51,7 @@ nbformat==5.0.4           # via ipywidgets, nbconvert, nbstripout, notebook
 nbstripout==0.3.3
 notebook==6.0.3           # via jupyter, jupyterlab, jupyterlab-launcher, widgetsnbextension
 numexpr==2.7.1            # via tables
-numpy==1.18.1             # via numexpr, pandas, pyarrow, tables
+numpy==1.22.0             # via numexpr, pandas, pyarrow, tables
 pandas==0.25.3            # via kedro
 pandocfilters==1.4.2      # via nbconvert
 parso==0.6.2              # via jedi
