@@ -92,7 +92,7 @@ traitlets==4.3.3          # via ipykernel, ipython, ipywidgets, jupyter-client, 
 urllib3==1.25.8           # via botocore, requests
 wcwidth==0.1.8            # via prompt-toolkit
 webencodings==0.5.1       # via bleach
-wheel==0.32.2
+wheel==0.38.1
 whichcraft==0.6.1         # via cookiecutter
 widgetsnbextension==3.5.1  # via ipywidgets
 xlrd==1.2.0               # via kedro
