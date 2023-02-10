@@ -28,7 +28,7 @@ idna==2.9                 # via requests
 importlib-metadata==1.5.0  # via jsonschema, pluggy
 ipykernel==5.1.4          # via ipywidgets, jupyter, jupyter-console, notebook, qtconsole
 ipython-genutils==0.2.0   # via jupyterlab, nbformat, notebook, qtconsole, traitlets
-ipython==7.16.3
+ipython==8.10.0
 ipywidgets==7.5.1         # via jupyter
 jedi==0.16.0              # via ipython
 jinja2-time==0.2.0        # via cookiecutter
